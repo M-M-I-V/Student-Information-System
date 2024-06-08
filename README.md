@@ -4,10 +4,10 @@ A simple Java-based console application to manage student information. This syst
 ### Features:
 - Java program showcasing fundamental programming, and OOP concepts.
 - User input handling using `Scanner`.
-- `Encapsulation`
-- `ArrayList`
-- `Method` and `Method Overriding`
-- `Input Validation`
+- `Encapsulation`.
+- `ArrayList`.
+- `Method` and `Method Overriding`.
+- `Input Validation`.
 
 ## Table of Contents
 - [Installation](#installation)
