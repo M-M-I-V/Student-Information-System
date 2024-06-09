@@ -1,5 +1,5 @@
 # Student Information System
-A simple Java-based console application to manage student information. This system allows you to add, remove, update, and view student records. The project is created by Neil Jay Lacandazo, a freshman Information Systems student from Mandaluyong College of Science and Technology.
+A simple Java-based console application to manage student information. This system allows you to add, remove, update, view, and search student records. The project is created by Neil Jay Lacandazo, a freshman Information Systems student from Mandaluyong College of Science and Technology.
 
 ### Features:
 - Java program showcasing fundamental programming, and OOP concepts.
@@ -8,6 +8,9 @@ A simple Java-based console application to manage student information. This syst
 - `ArrayList`.
 - `Method` and `Method Overriding`.
 - `Input Validation`.
+- `Enum`.
+- `File I/O for saving data`.
+- `Logger`.
 
 ## Table of Contents
 - [Installation](#installation)
