@@ -31,6 +31,7 @@ A simple Java-based console application to manage student information. This syst
 
 1. Compile the Java files:
    ```
+   javac Student.java
    javac StudentInformationSystem.java
    ```
 2. Run the program:
